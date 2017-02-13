@@ -60,6 +60,7 @@ HTML5高级程序设计 | Peter Lubbers / Ric Smith / Frank Salim / Brian Albers
 ----- | ----- | ------ | ----- | -----
 JavaScript权威指南 | 弗兰纳根(David Flanagan) (作者), 淘宝前端团队 (译者) | 经典之作 | [豆瓣](http://book.douban.com/subject/4736167/) | 第六版
 JavaScript语言精粹 | Douglas Crockford | 老道的经典，取JS精华，去JS糟粕 | [豆瓣](http://book.douban.com/subject/3590768/) | 2012 修订版
+JavaScript启示录 | Cody Lindley  | 简洁明了，全是干货 | [豆瓣](https://book.douban.com/subject/25837367/) | 2014 修订版
 高性能JavaScript | Nicholas C.Zakas  | 使用JavaScript构建交互丰富的高性能Web应用 | [豆瓣](http://book.douban.com/subject/5362856/) |
 编写可维护的JavaScript | Nicholas C.Zakas | 剖析JavaScript编程最优规范 | [豆瓣](http://book.douban.com/subject/21792530/) |
 JavaScript模式 | Stoyan Stefanov  | 包含了实现每个讨论的模式的实践建议，并附有数个可以立即上手的范例。 | [豆瓣](http://book.douban.com/subject/11506062/) |
